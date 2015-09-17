@@ -4,4 +4,5 @@ Instructors: Brian Yandell & Doug Bates
 
 Used for Fall 2015
 
+
 There are 29 students and two instructors.
